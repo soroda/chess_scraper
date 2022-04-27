@@ -12,3 +12,6 @@ source principale de ce dev : https://www.shedloadofcode.com/blog/how-to-scrape-
 ## Reste à faire ?
 - Automatiser la desactivation du javascript
 - Permettre la variabilisation (nombre de page à parcourir, profil à parcourir)
+
+# Overview of the PBIX
+![alt text](https://github.com/soroda/chess_scraper/blob/main/Overview.JPG)
